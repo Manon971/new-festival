@@ -1,0 +1,80 @@
+
+body {
+  background-color: lightblue;
+}
+.basePage
+{
+   background-color:#ACE1E8;
+   color:black;
+   font:11px Arial, Helvetica, sans-serif;
+}
+
+.titre
+{
+   background-color:#ACE1E8;
+   color:red;
+   text-decoration: underline black;
+   font:30px Arial, Helvetica, sans-serif;
+   text-align:center;
+}
+
+/* Style pour le texte de 2ème niveau du titre */
+.texteNiveau2
+{
+   font:20px Arial, Helvetica, sans-serif;
+   color:red;
+   text-decoration: underline black;
+}
+
+.texteAccueil
+{
+   background-color:#ACE1E;
+   color:black;      
+   font:14px Georgia, "Times New Roman", Times, serif;
+   font-weight:bold;
+}
+
+
+td,tr
+{
+   font:20px Arial, Helvetica, sans-serif;
+}
+
+table.tabMenu td
+{
+   background-color:#DDFDFF;
+   color:red;
+   border-bottom:1px solid black;
+   border-right:1px solid black;
+   border-left:1px solid black;
+   border-top:1px solid black;
+   width:33%;
+   height:40px;
+   text-align:center;
+}
+
+.menu
+{
+   font:15px Georgia, "Times New Roman", Times, serif;
+   font-weight:bold;
+   
+}
+
+
+.msgErreur
+{
+   background-color: #C5CECF;
+   color:black;
+   font-weight:bold;
+   font-size:14px;
+}
+
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+  }
+  
+
+  
+  
